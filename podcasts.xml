@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="Story Time" xmlUrl="https://bedtime.fm/storytime/feed" />
+      <outline type="rss" text="Peace Out" xmlUrl="https://bedtime.fm/peaceout/feed" />
+    </outline>
+  </body>
+</opml>

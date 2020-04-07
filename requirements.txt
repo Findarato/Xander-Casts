@@ -1,0 +1,3 @@
+PyChromecast==4.2.0
+requests==2.23.0
+more-itertools

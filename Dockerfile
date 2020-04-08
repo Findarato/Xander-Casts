@@ -1,7 +1,7 @@
 FROM python:3
 
 
-COPY ["powercasts","cast.py", "requirements.txt", "podcasts_xander.xml", "podcasts_xander.txt", "./"]
+COPY ["powercasts","cast.py", "requirements.txt", "podcasts.xml", "podcasts.txt", "./"]
 
 RUN pip install -r requirements.txt
 

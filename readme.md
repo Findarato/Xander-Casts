@@ -1,3 +1,6 @@
+![Docker Build Status](https://img.shields.io/docker/build/findarato/xander-casts?style=flat-square)
+
+
 # Thanks for looking at my tool
 
 I need to mention that [powercasts](https://github.com/taext/powercasts) is not something I wrote, and I do not take credit for it. I also used the code from [this](https://github.com/balloob/pychromecast/issues/330#issue-541432178) issue to make the queueing system work.  Their work is basically the whole player.py script

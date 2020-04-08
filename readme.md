@@ -1,5 +1,4 @@
-![Docker Build Status](https://img.shields.io/docker/build/findarato/xander-casts?style=flat-square)
-
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/findarato/xandercasts?style=flat-square) ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/findarato/xandercasts?style=flat-square)
 
 # Thanks for looking at my tool
 

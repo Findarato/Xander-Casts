@@ -15,7 +15,11 @@ if os.getenv('total_podcast_to_play') == None:
 else:
     total_podcast_to_play = int(os.getenv('total_podcast_to_play'))
 
-print(total_podcast_to_play)
+
+if os.getenv('chromecast_name') == None:
+    chromecast_name = "Xander Room"
+else:
+    chromecast_name = ios.getenv('chromecast_name')
 
 if timeDiff >=604800:
 # if timeDiff >=10:
@@ -41,7 +45,7 @@ while podcastList < total_podcast_to_play:
     podcastList = podcastList +1
 
 ChromeCasts=pychromecast.get_chromecasts()
-ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == "Xander Room")
+ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)
 
 # print(ChromeCasts)
 

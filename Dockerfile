@@ -5,4 +5,4 @@ COPY ["powercasts","cast.py","player.py", "requirements.txt", "podcasts.xml", "p
 
 RUN pip install -r requirements.txt
 
-CMD [ "python", "./cast.py" ]
+CMD [ "python", "cast.py" ]

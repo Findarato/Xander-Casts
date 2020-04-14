@@ -1,3 +1,6 @@
+
+#!/usr/bin/env python
+
 import os,random
 import pychromecast
 from datetime import datetime

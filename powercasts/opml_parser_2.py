@@ -1,4 +1,5 @@
-#!/home/dd/anaconda3/bin/python
+#!/usr/bin/env python
+
 import re, requests, json, sys
 from more_itertools import unique_everseen
 

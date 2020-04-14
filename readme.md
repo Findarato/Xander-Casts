@@ -20,4 +20,5 @@ Also I am 100% open to pull requsts to make the python better, I am still super 
 
 :TODO
 - [ ] Add support for setting amount of podcasts
+- [ ] Add support for sending specific IP to the chromecast
 

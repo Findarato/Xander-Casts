@@ -37,10 +37,10 @@ podcastList = 1
 counter = 0
 with open("podcasts.txt") as podcasts:
     for line in podcasts:
-        Xander_podcasts[int(counter)] = dict( content_type="audio/mp3", url=line,title="Princess and the Dragon", thumb="https://secureimg.stitcher.com/feedimagesplain328/71464.jpg")
+        Xander_podcasts[int(counter)] = dict( content_type="audio/mp3", url=line, title="Princess and the Dragon", thumb="https://secureimg.stitcher.com/feedimagesplain328/71464.jpg")
         counter = counter + 1
 # Lets just make sure He has the princess and the dragon
-podcasts_to_play[0] = dict( content_type="audio/mp3", url="https://chtbl.com/track/11GGG/media.blubrry.com/storytime/media.bedtime.fm/story-time_90.mp3" title="Princess and the Dragon", thumb="https://secureimg.stitcher.com/feedimagesplain328/71464.jpg")
+podcasts_to_play[0] = dict( content_type="audio/mp3", url="https://chtbl.com/track/11GGG/media.blubrry.com/storytime/media.bedtime.fm/story-time_90.mp3",title="Princess and the Dragon", thumb="https://secureimg.stitcher.com/feedimagesplain328/71464.jpg")
 
 while podcastList < total_podcast_to_play:
     podcasts_to_play[podcastList] = random.choice(Xander_podcasts)

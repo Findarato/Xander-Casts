@@ -3,7 +3,6 @@ import pychromecast
 from datetime import datetime
 import opml
 import requests, json
-import feedparser
 
 class Update_feeds:
     def __init__(self,feed):

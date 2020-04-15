@@ -1,6 +1,6 @@
 FROM python:buster
 
-COPY ["powercasts","cast.py","player.py", "requirements.txt", "podcasts.json", "podcasts.xml", "./"]
+COPY ["powercasts","cast.py","player.py","update_feeds.py", "requirements.txt", "podcasts.json", "podcasts.xml", "./"]
 
 RUN pip install -r requirements.txt
 

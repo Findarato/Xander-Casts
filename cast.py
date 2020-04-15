@@ -58,10 +58,10 @@ if len(podcast_data) == 0:
 # NEW JSON WAY
 podcasts_to_play = []
 podcasts_to_play.append(dict(
-    content_type="audio/mp3",
-    url="https://chtbl.com/track/11GGG/media.blubrry.com/storytime/media.bedtime.fm/story-time_90.mp3",
-    title="PThe Princess and the Dragon \ud83d\udc78\ud83c\udffd\ud83d\udc32",
-    thumb="https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
+    content_type = "audio/mp3",
+    url = "https://chtbl.com/track/11GGG/media.blubrry.com/storytime/media.bedtime.fm/story-time_90.mp3",
+    title = "The Princess and the Dragon \u00f0\u009f\u0091\u00b8\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0090\u00b2",
+    thumb = "https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
 ))
 
 podcastList = 1

@@ -21,7 +21,7 @@ class Update_feeds:
             for item in feedResult.entries:
                 feed_data.append({
                     "content_type": "audio/mp3",
-                    "title": item.itunes_title,
+                    "title": item.itunes_title.encode('utf-8', 'surrogateescape').decode('ISO-8859-1'),
                     "url": item.links[1].href,
                     "thumb": feedResult.feed.image.href
                 })

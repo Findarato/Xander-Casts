@@ -11,6 +11,7 @@ from more_itertools import unique_everseen
 def getUpdate():
     json_data = []
 
+    print("Getting Feeds")
     if outline[0].text == "feeds": # This is a pocket casts feed
         for podcast_feed in outline[0]:
             json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))

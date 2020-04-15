@@ -1,5 +1,4 @@
 *_orig.txt
-*.json
 stdout.txt
 *test*
 dev/*
@@ -11,3 +10,4 @@ lib
 lib64
 __pycache__/
 *.log
+podcasts.json

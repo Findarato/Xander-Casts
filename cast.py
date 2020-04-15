@@ -1,17 +1,35 @@
 
 #!/usr/bin/env python
 
-import os,random
+import os,random,json
 import pychromecast
 from datetime import datetime
 from player import Player
+from update_feeds import Update_feeds
+import opml
+from more_itertools import unique_everseen
+
+def getUpdate():
+    json_data = []
+
+    if outline[0].text == "feeds": # This is a pocket casts feed
+        for podcast_feed in outline[0]:
+            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
+    else:
+        for podcast_feed in outline:
+            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
+
+    Update_feeds.writeFeeds(json_data)
+
+outline = opml.parse("podcasts.xml")
 
 now = datetime.now()
 timestamp = datetime.timestamp(now)
-st = os.stat('./podcasts.txt')
+st = os.stat('podcasts.json')
 mtime = st.st_mtime
 
 timeDiff = (timestamp - mtime)
+
 
 if os.getenv('total_podcast_to_play') == None:
     total_podcast_to_play = 20
@@ -25,31 +43,34 @@ else:
     chromecast_name = ios.getenv('chromecast_name')
 
 if timeDiff >=604800:
-# if timeDiff >=10:
-    import powercasts.opml_parser_2 as parser2
-    parser2.main("podcasts.xml")
+    getUpdate()
 
+with open('podcasts.json') as json_file:
+    podcast_data = json.load(json_file)
 
-countLines = len(open("podcasts.txt").readlines(  ))
-Xander_podcasts = [0 for i in range(int(countLines))]
-podcasts_to_play = [0 for i in range(total_podcast_to_play)]
+if len(podcast_data) == 0:
+    getUpdate()
+    with open('podcasts.json') as json_file:
+        podcast_data = json.load(json_file)
+
+# print(json.dumps(data, indent=4))
+
+# NEW JSON WAY
+podcasts_to_play = []
+podcasts_to_play.append(dict(
+    content_type="audio/mp3",
+    url="https://chtbl.com/track/11GGG/media.blubrry.com/storytime/media.bedtime.fm/story-time_90.mp3",
+    title="PThe Princess and the Dragon \ud83d\udc78\ud83c\udffd\ud83d\udc32",
+    thumb="https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
+))
+
 podcastList = 1
-counter = 0
-with open("podcasts.txt") as podcasts:
-    for line in podcasts:
-        Xander_podcasts[int(counter)] = dict( content_type="audio/mp3", url=line, title="Princess and the Dragon", thumb="https://secureimg.stitcher.com/feedimagesplain328/71464.jpg")
-        counter = counter + 1
-# Lets just make sure He has the princess and the dragon
-podcasts_to_play[0] = dict( content_type="audio/mp3", url="https://chtbl.com/track/11GGG/media.blubrry.com/storytime/media.bedtime.fm/story-time_90.mp3",title="Princess and the Dragon", thumb="https://secureimg.stitcher.com/feedimagesplain328/71464.jpg")
 
-while podcastList < total_podcast_to_play:
-    podcasts_to_play[podcastList] = random.choice(Xander_podcasts)
-    podcastList = podcastList +1
+while len(podcasts_to_play) < total_podcast_to_play:
+    podcasts_to_play.append(random.choice(podcast_data))
 
 ChromeCasts=pychromecast.get_chromecasts()
 ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)
-
-# print(ChromeCasts)
 
 p=Player(ChromeCast)
 p.play( podcasts_to_play )

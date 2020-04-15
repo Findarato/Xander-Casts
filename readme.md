@@ -21,9 +21,9 @@ This tool is designed to play a random episode from a selection of podcasts.  It
 Also I am 100% open to pull requsts to make the python better, I am still super new at coding python and would love some pointers.
 
 :TODO
-- [ ] Add support for setting amount of podcasts
+- [x] Add support for setting amount of podcasts
 - [ ] Add support for sending specific IP to the chromecast
-- [ ] Add cover image support
-  - [ ] Pull cover image from the podcast feed
-  - [ ] Pull the title from the podcast feed
+- [x] Add cover image support
+  - [x] Pull cover image from the podcast feed
+  - [x] Pull the title from the podcast feed
 

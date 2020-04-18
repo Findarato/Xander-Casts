@@ -1,4 +1,4 @@
-FROM python:3
+FROM alpine-python3
 
 
 COPY ["powercasts","cast.py","player.py", "requirements.txt", "podcasts.xml", "podcasts.txt", "./"]

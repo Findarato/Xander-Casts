@@ -1,7 +1,5 @@
 import os,random
-import pychromecast
 from datetime import datetime
-import opml
 import requests, json
 
 class Update_feeds:

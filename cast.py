@@ -1,25 +1,27 @@
 #!/usr/bin/env python
 
 import os,random,json
-import pychromecast
 from datetime import datetime
 from player import Player
 from update_feeds import Update_feeds
 import opml
 from more_itertools import unique_everseen
+import pychromecast
 
 def getUpdate():
     json_data = []
 
     print("Getting Feeds")
-    if outline[0].text == "feeds": # This is a pocket casts feed
-        for podcast_feed in outline[0]:
-            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
-    else:
-        for podcast_feed in outline:
-            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
-
-    Update_feeds.writeFeeds(json_data)
+    try:
+        if outline[0].text == "feeds": # This is a pocket casts feed
+            for podcast_feed in outline[0]:
+                json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
+        else:
+            for podcast_feed in outline:
+                json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
+        Update_feeds.writeFeeds(json_data)
+    except:
+        1+1
 
 outline = opml.parse("podcasts.xml")
 
@@ -44,6 +46,7 @@ else:
 
 if timeDiff >=604800:
     getUpdate()
+
 
 with open('podcasts.json') as json_file:
     podcast_data = json.load(json_file)

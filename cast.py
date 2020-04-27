@@ -72,8 +72,8 @@ podcastList = 1
 while len(podcasts_to_play) < total_podcast_to_play:
     podcasts_to_play.append(random.choice(podcast_data))
 
-# ChromeCasts=pychromecast.get_chromecasts()
-# ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)
+ChromeCasts=pychromecast.get_chromecasts()
+ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)
 
-# p=Player(ChromeCast)
-# p.play( podcasts_to_play )
+p=Player(ChromeCast)
+p.play( podcasts_to_play )

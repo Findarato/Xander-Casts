@@ -6,7 +6,7 @@
   <body>
     <outline text="feeds">
       <outline type="rss" text="Story Time" xmlUrl="https://bedtime.fm/storytime/feed" />
-      <outline type="rss" text="Peace Out" xmlUrl="https://bedtime.fm/peaceout/feed" />
+      <outline type="rss" text="Peace Out" xmlUrl="https://www.littlestoriestinypeople.com/podcast.xml" />
     </outline>
   </body>
 </opml>

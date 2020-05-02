@@ -11,19 +11,24 @@ import pychromecast
 def getUpdate():
     json_data = []
 
-    print("Getting Feeds")
-    try:
-        if outline[0].text == "feeds": # This is a pocket casts feed
-            for podcast_feed in outline[0]:
-                json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
-        else:
-            for podcast_feed in outline:
-                json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
-        Update_feeds.writeFeeds(json_data)
-    except:
-        1+1
+    outline = opml.parse("podcasts.xml")
 
-outline = opml.parse("podcasts.xml")
+    print("Getting Feeds")
+    # try:
+    if outline[0].text == "feeds": # This is a pocket casts feed
+        for podcast_feed in outline[0]:
+            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
+    else:
+        for podcast_feed in outline:
+            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
+
+    print(json.dumps(json_data, indent=4))
+
+    Update_feeds.writeFeeds(json_data)
+    # except:
+        # 1+1
+
+
 
 now = datetime.now()
 timestamp = datetime.timestamp(now)
@@ -44,8 +49,9 @@ if os.getenv('chromecast_name') == None:
 else:
     chromecast_name = ios.getenv('chromecast_name')
 
-if timeDiff >=604800:
+if timeDiff >=604800 or True:
     getUpdate()
+
 
 
 with open('podcasts.json') as json_file:

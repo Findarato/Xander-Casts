@@ -17,10 +17,9 @@ class Update_feeds:
             r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0'}, timeout=60)
             feedResult = feedparser.parse(r.text)
             for item in feedResult.entries:
-                print(item)
                 feed_data.append({
                     "content_type": "audio/mp3",
-                    "title": item.itunes_title.encode('utf-8', 'surrogateescape').decode('ISO-8859-1'),
+                    "title": item.title.encode('utf-8', 'surrogateescape').decode('ISO-8859-1'),
                     "url": item.links[1].href,
                     "thumb": feedResult.feed.image.href
                 })

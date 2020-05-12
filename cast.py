@@ -22,7 +22,7 @@ def getUpdate():
         for podcast_feed in outline:
             json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
 
-    print(json.dumps(json_data, indent=4))
+    #print(json.dumps(json_data, indent=4))
 
     Update_feeds.writeFeeds(json_data)
     # except:
@@ -51,8 +51,6 @@ else:
 
 if timeDiff >=604800 or True:
     getUpdate()
-
-
 
 with open('podcasts.json') as json_file:
     podcast_data = json.load(json_file)
@@ -83,3 +81,4 @@ ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.
 
 p=Player(ChromeCast)
 p.play( podcasts_to_play )
+

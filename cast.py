@@ -68,7 +68,7 @@ podcasts_to_play = []
 podcasts_to_play.append(dict(
     content_type = "audio/mp3",
     url = "https://media.blubrry.com/storytime/media.bedtime.fm/ST_116.mp3",
-    title = "Buffy Bunny and the Magical Adventure written by Jess Judd",
+    title = "Episode 1: The Old Boot",
     thumb = "https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
 ))
 podcasts_to_play.append(dict(
@@ -77,11 +77,12 @@ podcasts_to_play.append(dict(
     title = "Episode 2: The Sunglasses",
     thumb = "https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
 ))
+
 podcastList = 2
 
 while len(podcasts_to_play) < total_podcast_to_play:
     podCast_selected = random.choice(podcast_data)
-    if podCast_selected.url != "https://media.blubrry.com/storytime/media.bedtime.fm/story-time_59.mp3":
+    if podCast_selected["url"] != "https://media.blubrry.com/storytime/media.bedtime.fm/story-time_59.mp3":
         podcasts_to_play.append(podCast_selected)
 
 ChromeCasts=pychromecast.get_chromecasts()

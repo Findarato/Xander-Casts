@@ -86,8 +86,10 @@ if len(podcast_data) == 0:
 #)
 #]
 
+podcasts_to_play = []
 
-podcastList = 2
+
+podcastList = 0
 
 while len(podcasts_to_play) < total_podcast_to_play:
     podCast_selected = random.choice(podcast_data)

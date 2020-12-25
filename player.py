@@ -3,20 +3,22 @@
 import pychromecast
 import time
 
+
 class Player:
-    def __init__(self,cc):
-        self.cc=cc
+    def __init__(self, cc):
+        self.cc = cc
         self.cc.wait()
         self.cc.media_controller.register_status_listener(self)
 
-    def play(self,pls):
+    def play(self, pls):
 
         def media_producer():
             for i in pls:
-                print("PLAY",i)
+                print("PLAY", i)
                 self.cc.media_controller.play_media(**i)
-                self.cc.media_controller.block_until_active ()
+                self.cc.media_controller.block_until_active()
                 yield
+
         self._media = media_producer()
 
         self.new_media_status(None)

@@ -7,7 +7,7 @@ idna==2.9
 ifaddr==0.1.6
 influxdb==5.0.0
 jq==0.1.8
-lxml==4.5.0
+lxml==4.6.2
 more-itertools==8.2.0
 opml==0.5
 protobuf==3.11.3

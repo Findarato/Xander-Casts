@@ -24,6 +24,7 @@ def getUpdate():
         for podcast_feed in outline:
             json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
 
+    # print("Writting JSON data")
     Update_feeds.writeFeeds(json_data)
 
 
@@ -57,35 +58,6 @@ if len(podcast_data) == 0:
 
 # print(json.dumps(data, indent=4))
 
-# NEW JSON WAY
-# podcasts_to_play = [
-#     dict(
-#     content_type="audio/mp3",
-#     url="https://media.blubrry.com/storytime/media.bedtime.fm/ST_116.mp3",
-#     title="Episode 1: The Old Boot",
-#     thumb="https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
-# ), dict(
-#     content_type="audio/mp3",
-#     url="https://media.blubrry.com/storytime/media.bedtime.fm/ST_117.mp3",
-#     title="Episode 2: The Sunglasses",
-#     thumb="https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
-# )
-# ]
-
-#podcasts_to_play = [
-#    dict(
-#    content_type="audio/mp3",
-#    url="https://media.blubrry.com/storytime/media.bedtime.fm/ST115.mp3",
-#    title="Buffy Bunny and The Magical Adventure",
-#    thumb="https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
-#), dict(
-#    content_type="audio/mp3",
-#    url="https://media.blubrry.com/storytime/media.bedtime.fm/story-time_91.mp3",
-#    title="Buffy Bunny's Icy Adventure",
-#    thumb="https://media.bedtime.fm/story-time_cover-artwork_396908d801804fff99016fdf0702d49a.png"
-#)
-#]
-
 podcasts_to_play = []
 
 
@@ -93,8 +65,6 @@ podcastList = 0
 
 while len(podcasts_to_play) < total_podcast_to_play:
     podCast_selected = random.choice(podcast_data)
-    if podCast_selected["url"] != "https://media.blubrry.com/storytime/media.bedtime.fm/story-time_59.mp3":
-        podcasts_to_play.append(podCast_selected)
 
 ChromeCasts = pychromecast.get_chromecasts()
 ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)

@@ -40,9 +40,9 @@ if os.getenv('total_podcast_to_play') is None:
 else:
     total_podcast_to_play = int(os.getenv('total_podcast_to_play'))
 
-if os.getenv('chromecast_name') is None:
-    chromecast_name = "Xander Room"
-else:
+chromecast_name = "Xander Room"
+
+if os.getenv('chromecast_name') is not None:
     chromecast_name = ios.getenv('chromecast_name')
 
 if timeDiff >= 604800 or True:
@@ -60,13 +60,33 @@ if len(podcast_data) == 0:
 
 podcasts_to_play = []
 
+print("Going to play:",total_podcast_to_play)
+print("Chromecast:",chromecast_name)
 
-podcastList = 0
+
+# while len(podcasts_to_play) < total_podcast_to_play:
+#     print("Selecting Podcasts")
+#     podCast_selected = random.choice(podcast_data)
+
+print("Selecting Podcasts")
+# podcasts_to_play = random.choices(podcast_data,k=total_podcast_to_play)
+
+count=0
+# # Not needed but useful for logging
+# for podcast in podCast_selected:
+#     print(count,":",podcast['title'])
+#     count=count+1
+
+# print(podCast_selected)
 
 while len(podcasts_to_play) < total_podcast_to_play:
     podCast_selected = random.choice(podcast_data)
+    podcasts_to_play.append(podCast_selected)
+    print(count,":",podCast_selected['title'])
+    count=count+1
 
 ChromeCasts = pychromecast.get_chromecasts()
+
 ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)
 
 p = Player(ChromeCast)

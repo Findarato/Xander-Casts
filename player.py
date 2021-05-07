@@ -2,7 +2,7 @@
 
 import pychromecast
 import time
-
+import json
 
 class Player:
     def __init__(self, cc):
@@ -14,7 +14,7 @@ class Player:
 
         def media_producer():
             for i in pls:
-                print("PLAY", i)
+                print("PLAY", json.dumps(i, indent=4))
                 self.cc.media_controller.play_media(**i)
                 self.cc.media_controller.block_until_active()
                 yield

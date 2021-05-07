@@ -1,6 +1,7 @@
 import json
 import os
 import random
+import time
 from datetime import datetime
 
 import opml
@@ -56,28 +57,14 @@ if len(podcast_data) == 0:
     with open('podcasts.json') as json_file:
         podcast_data = json.load(json_file)
 
-# print(json.dumps(data, indent=4))
-
 podcasts_to_play = []
 
 print("Going to play:",total_podcast_to_play)
 print("Chromecast:",chromecast_name)
 
-
-# while len(podcasts_to_play) < total_podcast_to_play:
-#     print("Selecting Podcasts")
-#     podCast_selected = random.choice(podcast_data)
-
 print("Selecting Podcasts")
-# podcasts_to_play = random.choices(podcast_data,k=total_podcast_to_play)
 
 count=0
-# # Not needed but useful for logging
-# for podcast in podCast_selected:
-#     print(count,":",podcast['title'])
-#     count=count+1
-
-# print(podCast_selected)
 
 while len(podcasts_to_play) < total_podcast_to_play:
     podCast_selected = random.choice(podcast_data)
@@ -85,9 +72,11 @@ while len(podcasts_to_play) < total_podcast_to_play:
     print(count,":",podCast_selected['title'])
     count=count+1
 
-ChromeCasts = pychromecast.get_chromecasts()
+ChromeCasts,browser = pychromecast.get_listed_chromecasts(friendly_names=[chromecast_name])
 
-ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts if ChromeCast.device.friendly_name == chromecast_name)
+
+ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts )
+ChromeCast.wait()
 
 p = Player(ChromeCast)
 p.play(podcasts_to_play)

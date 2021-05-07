@@ -5,7 +5,6 @@ docker-pycreds==0.3.0
 feedparser==5.2.1
 idna==2.9
 ifaddr==0.1.6
-influxdb==5.0.0
 jq==0.1.8
 lxml==4.6.3
 more-itertools==8.2.0

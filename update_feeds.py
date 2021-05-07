@@ -2,6 +2,7 @@ import os,random
 from datetime import datetime
 import requests, json
 import feedparser
+import logging
 
 class Update_feeds:
     def __init__(self,feed):
@@ -30,9 +31,10 @@ class Update_feeds:
                 })
             return feed_data
         except:
-            print("failed: " + url)
+            loggin.error(f'failed to get: {url}')
 
     @staticmethod
     def writeFeeds(feed_data):
         with open('podcasts.json', 'w') as outfile:
+            logging.info('Writting podcasts')
             json.dump(feed_data, outfile, indent=4)

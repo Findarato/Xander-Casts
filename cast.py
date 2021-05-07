@@ -2,21 +2,25 @@ import json
 import os
 import random
 import time
-from datetime import datetime
-
 import opml
 import pychromecast
+import logging
+
+from datetime import datetime
 
 from player import Player
+
 from update_feeds import Update_feeds
 
+
+logging.basicConfig(filename='xandercast.log', encoding='utf-8')
 
 def getUpdate():
     json_data = []
 
     outline = opml.parse("podcasts.xml")
 
-    print("Getting Feeds")
+    logging.info("Getting Feeds")
     # try:
     if outline[0].text == "feeds":  # This is a pocket casts feed
         for podcast_feed in outline[0]:
@@ -59,17 +63,18 @@ if len(podcast_data) == 0:
 
 podcasts_to_play = []
 
-print("Going to play:",total_podcast_to_play)
-print("Chromecast:",chromecast_name)
+logging.info(f'Going to play: {total_podcast_to_play}')
+logging.info(f'Chromecast: {chromecast_name}')
 
-print("Selecting Podcasts")
+logging.info("Selecting Podcasts")
 
 count=0
 
 while len(podcasts_to_play) < total_podcast_to_play:
     podCast_selected = random.choice(podcast_data)
     podcasts_to_play.append(podCast_selected)
-    print(count,":",podCast_selected['title'])
+    podcast_title = podCast_selected['title']
+    logging.info(f'{count} : {podcast_title}')
     count=count+1
 
 ChromeCasts,browser = pychromecast.get_listed_chromecasts(friendly_names=[chromecast_name])

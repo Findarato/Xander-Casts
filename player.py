@@ -16,7 +16,7 @@ class Player:
 
         def media_producer():
             for i in pls:
-                nowplaying = i.title
+                nowplaying = i
                 logging.info(f'Starting to play {nowplaying}')
                 self.cc.media_controller.play_media(**i)
                 self.cc.media_controller.block_until_active()

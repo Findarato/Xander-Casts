@@ -13,7 +13,7 @@ from player import Player
 from update_feeds import Update_feeds
 
 
-logging.basicConfig(filename='xandercast.log', encoding='utf-8')
+logging.basicConfig(filename='xandercast.log', encoding='utf-8',level=logging.INFO)
 
 def getUpdate():
     json_data = []

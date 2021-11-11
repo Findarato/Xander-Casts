@@ -5,9 +5,10 @@
   </head>
   <body>
     <outline text="feeds">
-      <outline type="rss" text="Story Time" xmlUrl="https://bedtime.fm/storytime/feed" />
-      <outline type="rss" text="Bottle Ship" xmlUrl="https://bedtime.fm/bottleship/feed" />
+      <!-- <outline type="rss" text="Story Time" xmlUrl="https://bedtime.fm/storytime/feed" /> -->
+      <!-- <outline type="rss" text="Bottle Ship" xmlUrl="https://bedtime.fm/bottleship/feed" /> -->
       <outline type="rss" text="Curious" xmlUrl="https://feeds.buzzsprout.com/207269.rss" />
+      <outline type="rss" text="Who Smarted" xmlUrl="https://rss.art19.com/who-smarted" />
     </outline>
   </body>
 </opml>

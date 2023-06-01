@@ -1,1 +1,2414 @@
-[]
+[
+    {
+        "content_type": "audio/mp3",
+        "title": "How long can a Submarine stay underwater?",
+        "url": "https://traffic.megaphone.fm/GLSS7251786214.mp3?updated=1685500310",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do you have more than Five Senses?",
+        "url": "https://traffic.megaphone.fm/GLSS4865292805.mp3?updated=1685292604",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are Capybaras just giant Guinea Pigs?",
+        "url": "https://traffic.megaphone.fm/GLSS8253557737.mp3?updated=1685048204",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What country first invented Ice Hockey?",
+        "url": "https://traffic.megaphone.fm/GLSS3072791007.mp3?updated=1684896061",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Pluto still a Planet?",
+        "url": "https://traffic.megaphone.fm/GLSS3512255053.mp3?updated=1684716443",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How high can you bounce on a Trampoline?",
+        "url": "https://traffic.megaphone.fm/GLSS7222785261.mp3?updated=1684505470",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were artists Michelangelo & DaVinci rivals?",
+        "url": "https://traffic.megaphone.fm/GLSS3783483648.mp3?updated=1684303797",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can an Octopus turn invisible?",
+        "url": "https://traffic.megaphone.fm/GLSS7394452420.mp3?updated=1684122515",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is the Statue of Liberty green?",
+        "url": "https://traffic.megaphone.fm/GLSS7210199339.mp3?updated=1683856126",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does Dyslexia affect how you read & write?",
+        "url": "https://traffic.megaphone.fm/GLSS9426783804.mp3?updated=1683815109",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Should only Babies take Naps?",
+        "url": "https://traffic.megaphone.fm/GLSS6450315186.mp3?updated=1683814800",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do we celebrate Cinco de Mayo (May 5th)? (Preview of Subscriber Episode)",
+        "url": "https://traffic.megaphone.fm/GLSS5496326174.mp3?updated=1683815141",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the biggest Fish in the Ocean?",
+        "url": "https://traffic.megaphone.fm/GLSS7216598451.mp3?updated=1683082728",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are chickens 3rd Cousins to T\u00e2\u0080\u0093Rex?",
+        "url": "https://traffic.megaphone.fm/GLSS9616269201.mp3?updated=1682913053",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Invasive Species invade?",
+        "url": "https://traffic.megaphone.fm/GLSS4368555093.mp3?updated=1682651811",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is the Pacific Garbage Patch a floating island of trash?",
+        "url": "https://traffic.megaphone.fm/GLSS5870338434.mp3?updated=1682504732",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do countries pick their National Symbol?",
+        "url": "https://traffic.megaphone.fm/GLSS7382370204.mp3?updated=1682297317",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did Lewis & Clark become famous American explorers?",
+        "url": "https://traffic.megaphone.fm/GLSS5374517091.mp3?updated=1682697434",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Blue Jeans blue?",
+        "url": "https://traffic.megaphone.fm/GLSS9559215895.mp3?updated=1681876089",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes Earth able to support life?",
+        "url": "https://traffic.megaphone.fm/GLSS8354580610.mp3?updated=1681758209",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What are Crayons made of?",
+        "url": "https://traffic.megaphone.fm/GLSS2491213602.mp3?updated=1682697448",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the difference between a Frog and a Toad?",
+        "url": "https://traffic.megaphone.fm/GLSS9803827021.mp3?updated=1681328063",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you avoid having Nightmares at night?",
+        "url": "https://traffic.megaphone.fm/GLSS9686050743.mp3?updated=1681108987",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a Hot Air Balloon keep from popping?",
+        "url": "https://traffic.megaphone.fm/GLSS4897080468.mp3?updated=1680834575",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is your Skin made of?",
+        "url": "https://traffic.megaphone.fm/GLSS5542090185.mp3?updated=1680661426",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens if you swallow Bubble Gum?",
+        "url": "https://traffic.megaphone.fm/GLSS5193561403.mp3?updated=1680478541",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was the Eiffel Tower once the tallest human-made structure in the world?",
+        "url": "https://traffic.megaphone.fm/GLSS2280057430.mp3?updated=1681135664",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the difference between Chicken Nuggets, Fingers & Tenders?",
+        "url": "https://traffic.megaphone.fm/GLSS8801502299.mp3?updated=1681135404",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do some animals Hibernate?",
+        "url": "https://traffic.megaphone.fm/GLSS7362116222.mp3?updated=1679922734",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is the largest living thing on the planet... a Mushroom?",
+        "url": "https://traffic.megaphone.fm/GLSS4538734398.mp3?updated=1679616681",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What have Telescopes taught us about the origins of the Universe?",
+        "url": "https://traffic.megaphone.fm/GLSS5267168591.mp3?updated=1679455186",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Donuts called Dough Nuts?",
+        "url": "https://traffic.megaphone.fm/GLSS2083495423.mp3?updated=1679432392",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens if you get bit by... a Tick?",
+        "url": "https://traffic.megaphone.fm/GLSS1651307957.mp3?updated=1679244670",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Thunderstorms form?",
+        "url": "https://traffic.megaphone.fm/GLSS2065117367.mp3?updated=1678909250",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Zeus more powerful than Superman?",
+        "url": "https://traffic.megaphone.fm/GLSS2763583216.mp3?updated=1678907672",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are most Pencils yellow?",
+        "url": "https://traffic.megaphone.fm/GLSS5425102286.mp3?updated=1678909289",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was Mozart playing music professionally at just 5 years old?!?",
+        "url": "https://traffic.megaphone.fm/GLSS4639418905.mp3?updated=1678909375",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could Mermaids actually exist?",
+        "url": "https://traffic.megaphone.fm/GLSS6338201577.mp3?updated=1678909347",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did people used to travel a lot by... Blimp?",
+        "url": "https://traffic.megaphone.fm/GLSS7379794401.mp3?updated=1678202009",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many US states could fit inside Alaska?",
+        "url": "https://traffic.megaphone.fm/GLSS9202519271.mp3?updated=1678207010",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What will the Cars of the Future be like?",
+        "url": "https://traffic.megaphone.fm/GLSS2753519213.mp3?updated=1678207023",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What kind of musical instrument is the Piano?",
+        "url": "https://traffic.megaphone.fm/GLSS1457457175.mp3?updated=1678201910",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Flamingos pink?",
+        "url": "https://traffic.megaphone.fm/GLSS9686386846.mp3?updated=1678207144",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What causes Asteroids to break free and attack planets?",
+        "url": "https://traffic.megaphone.fm/GLSS9961388251.mp3?updated=1682608746",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was it once illegal to go... Bowling?",
+        "url": "https://traffic.megaphone.fm/GLSS3987118210.mp3?updated=1678207203",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does Stonehenge actually possess magical powers?",
+        "url": "https://traffic.megaphone.fm/GLSS7104002178.mp3?updated=1678207216",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does your Dog dream about... You?",
+        "url": "https://traffic.megaphone.fm/GLSS4077872976.mp3?updated=1678207244",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does The Gulf Stream protect you against solar radiation?",
+        "url": "https://traffic.megaphone.fm/GLSS4989166657.mp3?updated=1678207272",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "If Mercury is so close to the sun... why is it freezing?",
+        "url": "https://traffic.megaphone.fm/GLSS2215589465.mp3?updated=1682608387",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the greatest Aviation Mystery of all time?",
+        "url": "https://traffic.megaphone.fm/GLSS8870654849.mp3?updated=1678207313",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are there usually cute animals in Bedtime Stories?",
+        "url": "https://traffic.megaphone.fm/GLSS8901836586.mp3?updated=1678207338",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the mysterious creature known as... the Jackalope?",
+        "url": "https://traffic.megaphone.fm/GLSS5144756520.mp3?updated=1678207386",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who invented Time as we know it today?",
+        "url": "https://traffic.megaphone.fm/GLSS4870138697.mp3?updated=1678207443",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens if you're Lactose Intolerant and eat dairy?",
+        "url": "https://traffic.megaphone.fm/GLSS8375428734.mp3?updated=1678207465",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the fastest anyone's ever solved a Rubik's Cube?",
+        "url": "https://traffic.megaphone.fm/GLSS9355440592.mp3?updated=1678207484",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who thought to add Jelly to Peanut Butter sandwiches?",
+        "url": "https://traffic.megaphone.fm/GLSS4896826754.mp3?updated=1678207509",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What should you do if you're feeling... Stressed out?",
+        "url": "https://traffic.megaphone.fm/GLSS9887790156.mp3?updated=1678207536",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Infinity the largest number?",
+        "url": "https://traffic.megaphone.fm/GLSS9379269131.mp3?updated=1678207563",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What causes a Tornado to form?",
+        "url": "https://traffic.megaphone.fm/GLSS9088054355.mp3?updated=1678207586",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Friday the 13th actually an unlucky day?",
+        "url": "https://traffic.megaphone.fm/GLSS3215106796.mp3?updated=1678207612",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Where does Electricity come from?",
+        "url": "https://traffic.megaphone.fm/GLSS6497583740.mp3?updated=1678207660",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you have Fingernails?",
+        "url": "https://traffic.megaphone.fm/GLSS5457144715.mp3?updated=1678298184",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What superpowers does an Axolotl have?",
+        "url": "https://traffic.megaphone.fm/GLSS5938815285.mp3?updated=1678207769",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do Lice want to live on your head?",
+        "url": "https://traffic.megaphone.fm/GLSS5057306523.mp3?updated=1678719736",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who came up with the idea to drop a ball on New Years Eve?",
+        "url": "https://traffic.megaphone.fm/GLSS8592035442.mp3?updated=1678207807",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Snowboarding easier to learn than Skiing?",
+        "url": "https://traffic.megaphone.fm/GLSS6951955055.mp3?updated=1678719799",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you tell a real Smile from a fake one?",
+        "url": "https://traffic.megaphone.fm/GLSS8403246802.mp3?updated=1678207846",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What was the very first Breakfast Cereal?",
+        "url": "https://traffic.megaphone.fm/GLSS4840603645.mp3?updated=1678207868",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did the Ancient Aztecs, Incas & Mayans invent Salsa for their chips?",
+        "url": "https://traffic.megaphone.fm/GLSS2758031864.mp3?updated=1677864066",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the difference between a Swamp, a Marsh & a Wetland?",
+        "url": "https://traffic.megaphone.fm/GLSS5103862515.mp3?updated=1678207888",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a tree become Paper?",
+        "url": "https://traffic.megaphone.fm/GLSS3447093469.mp3?updated=1678207936",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many aircraft can an Aircraft Carrier carry?",
+        "url": "https://traffic.megaphone.fm/GLSS8022126792.mp3?updated=1678207956",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you Fart?",
+        "url": "https://traffic.megaphone.fm/GLSS9727338209.mp3?updated=1678207976",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did the Sandwich get its name?",
+        "url": "https://traffic.megaphone.fm/GLSS8606595884.mp3?updated=1678208048",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How are you able to see Colors?",
+        "url": "https://traffic.megaphone.fm/GLSS9364354669.mp3?updated=1678719878",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do you keep from acting 'Sus' in Among Us?",
+        "url": "https://traffic.megaphone.fm/GLSS7914893819.mp3?updated=1678208388",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Carnivorous Plants digest insects?",
+        "url": "https://traffic.megaphone.fm/GLSS4717478087.mp3?updated=1678208406",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What defenses does Cinderella's Castle have against an attack?",
+        "url": "https://traffic.megaphone.fm/GLSS8731336350.mp3?updated=1678208425",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is there a way to win a Coin Toss?",
+        "url": "https://traffic.megaphone.fm/GLSS3475998173.mp3?updated=1678208740",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a tropical storm become a Hurricane?",
+        "url": "https://traffic.megaphone.fm/GLSS3099016088.mp3?updated=1678208762",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is it impolite NOT to slurp your Ramen?",
+        "url": "https://traffic.megaphone.fm/GLSS9937037805.mp3?updated=1678208786",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which came first - Roller Skates or Rollerblades?",
+        "url": "https://traffic.megaphone.fm/GLSS9384702192.mp3?updated=1678208813",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does candy get its Flavor?",
+        "url": "https://traffic.megaphone.fm/GLSS6221852354.mp3?updated=1678208835",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What are the different types of Pollution?",
+        "url": "https://traffic.megaphone.fm/GLSS3204178547.mp3?updated=1678208863",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do beaver Dams generate electricity?",
+        "url": "https://traffic.megaphone.fm/GLSS9601649328.mp3?updated=1678208886",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is it your Sweat that stinks... or you?",
+        "url": "https://traffic.megaphone.fm/GLSS2698057125.mp3?updated=1677864072",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many people live aboard the International Space Station?",
+        "url": "https://traffic.megaphone.fm/GLSS2301684016.mp3?updated=1678208909",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Salt & Pepper affect the taste of your food?",
+        "url": "https://traffic.megaphone.fm/GLSS9812257141.mp3?updated=1678208931",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does your Heart make blood?",
+        "url": "https://traffic.megaphone.fm/GLSS3350769950.mp3?updated=1678208970",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What was it like to be a Gladiator in the Colosseum?",
+        "url": "https://traffic.megaphone.fm/GLSS7783094054.mp3?updated=1678208995",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are Space Aliens listening out for us?",
+        "url": "https://traffic.megaphone.fm/GLSS4953025601.mp3?updated=1678209016",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you Trick or Treat on Halloween?",
+        "url": "https://traffic.megaphone.fm/GLSS5995946941.mp3?updated=1678209036",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many different types of Animation are there?",
+        "url": "https://traffic.megaphone.fm/GLSS7253292817.mp3?updated=1678719951",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many times can something be Recycled?",
+        "url": "https://traffic.megaphone.fm/GLSS9791882250.mp3?updated=1678209340",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How is Sugar made?",
+        "url": "https://traffic.megaphone.fm/GLSS3762071060.mp3?updated=1678720008",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens in your brain & body during a Hug?",
+        "url": "https://traffic.megaphone.fm/GLSS2327471698.mp3?updated=1678209538",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does Camping actually make your brain happier?",
+        "url": "https://traffic.megaphone.fm/GLSS8405646394.mp3?updated=1678209592",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What are the craziest Roller Coasters in the world???",
+        "url": "https://traffic.megaphone.fm/GLSS3957316629.mp3?updated=1678209613",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do Bagels have holes?",
+        "url": "https://traffic.megaphone.fm/GLSS2585899314.mp3?updated=1678209630",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What did people do before\u00e2\u0080\u00a6 Toilets?",
+        "url": "https://traffic.megaphone.fm/GLSS6764645902.mp3?updated=1678209656",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which came first... the knife, spoon or fork?",
+        "url": "https://traffic.megaphone.fm/GLSS2005691369.mp3?updated=1678209812",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does getting poked by Acupuncture needles hurt?",
+        "url": "https://traffic.megaphone.fm/GLSS1075655268.mp3?updated=1678720064",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is it bad luck to open an Umbrella indoors?",
+        "url": "https://traffic.megaphone.fm/GLSS5191779471.mp3?updated=1678209833",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many species of Cats are there?",
+        "url": "https://traffic.megaphone.fm/GLSS8456402791.mp3?updated=1678209851",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does your brain learn a new Language?",
+        "url": "https://traffic.megaphone.fm/GLSS8466813554.mp3?updated=1678209902",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do heavy Boats float?",
+        "url": "https://traffic.megaphone.fm/GLSS1123739308.mp3?updated=1678209926",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can Worms regrow their head?",
+        "url": "https://traffic.megaphone.fm/GLSS9371099608.mp3?updated=1678209956",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can your Freckles\u00e2\u0080\u00a6disappear?",
+        "url": "https://traffic.megaphone.fm/GLSS9596059145.mp3?updated=1678209981",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Movies trick your brain?",
+        "url": "https://traffic.megaphone.fm/GLSS3068814976.mp3?updated=1678210002",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did a Volcano help invent the Bicycle?",
+        "url": "https://traffic.megaphone.fm/GLSS3126016135.mp3?updated=1678210020",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is YAWNING Really CONTAGIOUS???",
+        "url": "https://traffic.megaphone.fm/GLSS2895217743.mp3?updated=1678217293",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Competitive Eaters eat so much???",
+        "url": "https://traffic.megaphone.fm/GLSS3450808280.mp3?updated=1678224374",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does having a Fever actually help you?",
+        "url": "https://traffic.megaphone.fm/GLSS3371522795.mp3?updated=1678224376",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do Koalas poop 360 times a day???",
+        "url": "https://traffic.megaphone.fm/GLSS6887506652.mp3?updated=1678229249",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can you go back in Time?",
+        "url": "https://traffic.megaphone.fm/GLSS5453709811.mp3?updated=1678289825",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who came up with the awesome idea of Ice Cream Trucks?",
+        "url": "https://traffic.megaphone.fm/GLSS1819978801.mp3?updated=1678289856",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are your Armpits so stinky?",
+        "url": "https://traffic.megaphone.fm/GLSS9024655643.mp3?updated=1678289890",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who was the very first Marvel Superhero?",
+        "url": "https://traffic.megaphone.fm/GLSS3779051011.mp3?updated=1678289927",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do you become a Clown?",
+        "url": "https://traffic.megaphone.fm/GLSS5786667954.mp3?updated=1678289950",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why does milk, and not water, keep spicy foods from burning?",
+        "url": "https://traffic.megaphone.fm/GLSS5590105610.mp3?updated=1678289980",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do they build super tall buildings?",
+        "url": "https://traffic.megaphone.fm/GLSS8391300625.mp3?updated=1678290004",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were the first Pillows...rocks?",
+        "url": "https://traffic.megaphone.fm/GLSS7723700389.mp3?updated=1678290022",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Plants eat?",
+        "url": "https://traffic.megaphone.fm/GLSS2628569422.mp3?updated=1678290080",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do you win at Minecraft?",
+        "url": "https://traffic.megaphone.fm/GLSS7524119006.mp3?updated=1678290216",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a Rocket escape Earth's gravity?",
+        "url": "https://traffic.megaphone.fm/GLSS9447142560.mp3?updated=1678290242",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes Smartphones so smart?",
+        "url": "https://traffic.megaphone.fm/GLSS5048813061.mp3?updated=1678290262",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What takes longer to digest - candy or carrots?",
+        "url": "https://traffic.megaphone.fm/GLSS9256627423.mp3?updated=1678290501",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why aren't Humans as tall as Giraffes?",
+        "url": "https://traffic.megaphone.fm/GLSS5989015184.mp3?updated=1678290515",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is the banana going... extinct?",
+        "url": "https://traffic.megaphone.fm/GLSS7946071420.mp3?updated=1678290538",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How much bigger is a Queen Bee?",
+        "url": "https://traffic.megaphone.fm/GLSS4636001685.mp3?updated=1678290563",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which condiment came first - Ketchup or Mustard?",
+        "url": "https://traffic.megaphone.fm/GLSS6479777833.mp3?updated=1678290619",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What part of the Earth is as hot as the Sun?",
+        "url": "https://traffic.megaphone.fm/GLSS6304178694.mp3?updated=1678290641",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are there Fireworks on the 4th of July?",
+        "url": "https://traffic.megaphone.fm/GLSS2412326691.mp3?updated=1678290695",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is a Poison Ivy rash contagious?",
+        "url": "https://traffic.megaphone.fm/GLSS2711837295.mp3?updated=1678290762",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was Ben Franklin the richest man in America?",
+        "url": "https://traffic.megaphone.fm/GLSS8806821011.mp3?updated=1678290812",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How were the classic Board Games invented?",
+        "url": "https://traffic.megaphone.fm/GLSS3181213260.mp3?updated=1678290747",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens if the Polar Ice Caps melt?",
+        "url": "https://traffic.megaphone.fm/GLSS9557850360.mp3?updated=1678290768",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Pandas black & white?",
+        "url": "https://traffic.megaphone.fm/GLSS1854456446.mp3?updated=1678290897",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you need to pee?",
+        "url": "https://traffic.megaphone.fm/GLSS5841207533.mp3?updated=1678290835",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did Pok\u00c3\u00a9mon become one of the most popular franchises ever?",
+        "url": "https://traffic.megaphone.fm/GLSS3321172771.mp3?updated=1678290852",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which country has the most Pyramids?",
+        "url": "https://traffic.megaphone.fm/GLSS1148860309.mp3?updated=1678290875",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Leonardo da Vinci really collect dead bodies to study?",
+        "url": "https://traffic.megaphone.fm/GLSS1713255579.mp3?updated=1678290896",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are Petrified Forests Scary?",
+        "url": "https://traffic.megaphone.fm/GLSS6585544158.mp3?updated=1678290916",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are some Rodents considered pets and others pests?",
+        "url": "https://traffic.megaphone.fm/GLSS1263578106.mp3?updated=1678290934",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was it fun to be a Pirate?",
+        "url": "https://traffic.megaphone.fm/GLSS1592860212.mp3?updated=1678290952",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why don't you fly out of a Water Slide?",
+        "url": "https://traffic.megaphone.fm/GLSS4085437592.mp3?updated=1678290973",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes a bird... a Raptor?",
+        "url": "https://traffic.megaphone.fm/GLSS8763077626.mp3?updated=1678290991",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could a Black Hole pull you inside?",
+        "url": "https://traffic.megaphone.fm/GLSS7675349830.mp3?updated=1682607928",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do your Socks always go missing?",
+        "url": "https://traffic.megaphone.fm/GLSS4357593777.mp3?updated=1678291030",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the difference between Tortoises & Turtles?",
+        "url": "https://traffic.megaphone.fm/GLSS4265763212.mp3?updated=1678291055",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do we blow up Balloons for birthday parties?",
+        "url": "https://traffic.megaphone.fm/GLSS5468910784.mp3?updated=1678291088",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How much air does a Scuba tank hold?",
+        "url": "https://traffic.megaphone.fm/GLSS2911292594.mp3?updated=1678291107",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are they called French Fries if they weren't invented in France?",
+        "url": "https://traffic.megaphone.fm/GLSS9049470340.mp3?updated=1678291169",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you Poop?",
+        "url": "https://traffic.megaphone.fm/GLSS9101444727.mp3?updated=1678291267",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Has anyone ever been hit by a Meteorite?",
+        "url": "https://traffic.megaphone.fm/GLSS8191966232.mp3?updated=1678291706",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Narwhals known as the Unicorn of the Sea?",
+        "url": "https://traffic.megaphone.fm/GLSS2896439350.mp3?updated=1678720158",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who invented the Action Figure Toy?",
+        "url": "https://traffic.megaphone.fm/GLSS9314439043.mp3?updated=1678291745",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do things disappear in The Bermuda Triangle because of... Earth farts?",
+        "url": "https://traffic.megaphone.fm/GLSS2912598628.mp3?updated=1678291746",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Brain Chemicals make you happy?",
+        "url": "https://traffic.megaphone.fm/GLSS7656550148.mp3?updated=1678291768",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does the Moon protect the Earth?",
+        "url": "https://traffic.megaphone.fm/GLSS7761128393.mp3?updated=1678291793",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are everyone's Fingerprints really different?",
+        "url": "https://traffic.megaphone.fm/GLSS2961536748.mp3?updated=1678291815",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Pretzels... pretzel shaped?",
+        "url": "https://traffic.megaphone.fm/GLSS2033600091.mp3?updated=1678291833",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do your Eyes work?",
+        "url": "https://traffic.megaphone.fm/GLSS7987156395.mp3?updated=1678291855",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do Wombats really use their butts to fight off predators?",
+        "url": "https://traffic.megaphone.fm/GLSS9835479883.mp3?updated=1678291872",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who actually invented Baseball?",
+        "url": "https://traffic.megaphone.fm/GLSS8552184804.mp3?updated=1678291903",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes you Allergic to certain things?",
+        "url": "https://traffic.megaphone.fm/GLSS7639930757.mp3?updated=1678291925",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Owls use their poop to catch their dinner?",
+        "url": "https://traffic.megaphone.fm/GLSS7575644462.mp3?updated=1678292034",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Saturn going to lose its rings one day?",
+        "url": "https://traffic.megaphone.fm/GLSS5042544416.mp3?updated=1678292053",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes the Rainforest one of the most unique places on Earth?",
+        "url": "https://traffic.megaphone.fm/GLSS5942733127.mp3?updated=1678292071",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did the Herbivores protect themselves from the Carnivores?",
+        "url": "https://traffic.megaphone.fm/GLSS7858723387.mp3?updated=1678292095",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What are some of the weirdest & wildest foods you'll find at a Fair?",
+        "url": "https://traffic.megaphone.fm/GLSS8064820040.mp3?updated=1678292121",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who invents more new words, kids or adults?",
+        "url": "https://traffic.megaphone.fm/GLSS1293505467.mp3?updated=1678720744",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can you use a Geyser to wash your clothes?",
+        "url": "https://traffic.megaphone.fm/GLSS9416877315.mp3?updated=1678292426",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Cucumbers become Pickles?",
+        "url": "https://traffic.megaphone.fm/GLSS6602307872.mp3?updated=1678292465",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could Bigfoot actually exist?",
+        "url": "https://traffic.megaphone.fm/GLSS3519448426.mp3?updated=1678292486",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How tall are the biggest waves in the world?",
+        "url": "https://traffic.megaphone.fm/GLSS8093267573.mp3?updated=1678292506",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do your fingers get wrinkly in the pool or bathtub?",
+        "url": "https://traffic.megaphone.fm/GLSS1058521848.mp3?updated=1678292529",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the Fastest you're allowed to drive on the Highway?",
+        "url": "https://traffic.megaphone.fm/GLSS5259741829.mp3?updated=1678292548",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What does the Periodic Table of the Elements do?",
+        "url": "https://traffic.megaphone.fm/GLSS3610982703.mp3?updated=1678292572",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are Plastics destroying the Earth??",
+        "url": "https://traffic.megaphone.fm/GLSS1912246824.mp3?updated=1678292595",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How are Galaxies formed?",
+        "url": "https://traffic.megaphone.fm/GLSS8146196649.mp3?updated=1678293416",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are Mummies real???",
+        "url": "https://traffic.megaphone.fm/GLSS4285767664.mp3?updated=1678293407",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why should you never give a Kangaroo a carrot?",
+        "url": "https://traffic.megaphone.fm/GLSS8045141587.mp3?updated=1678293424",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a microwave oven heat up your Hot Pockets?",
+        "url": "https://traffic.megaphone.fm/GLSS6625237801.mp3?updated=1678293510",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who really invented the Potato Chip?",
+        "url": "https://traffic.megaphone.fm/GLSS2044923385.mp3?updated=1678293529",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is your ear full of Wax???",
+        "url": "https://traffic.megaphone.fm/GLSS3087136420.mp3?updated=1678293560",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does your brain turn Sound Waves into Sound?",
+        "url": "https://traffic.megaphone.fm/GLSS7715458368.mp3?updated=1678293749",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do Caterpillars turn into Butterflies?",
+        "url": "https://traffic.megaphone.fm/GLSS4141818643.mp3?updated=1678293777",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was there really a time when cars didn't have seatbelts?",
+        "url": "https://traffic.megaphone.fm/GLSS1352102744.mp3?updated=1678293862",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is it you can smell other people but not yourself?",
+        "url": "https://traffic.megaphone.fm/GLSS4699808203.mp3?updated=1678293886",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes a train move down the tracks?",
+        "url": "https://traffic.megaphone.fm/GLSS8958963123.mp3?updated=1678293915",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do Animals Cry?",
+        "url": "https://traffic.megaphone.fm/GLSS2772703912.mp3?updated=1678293937",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Where would you rather live, Mars or Venus?",
+        "url": "https://traffic.megaphone.fm/GLSS2637351599.mp3?updated=1678293964",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are footballs shaped so... not round?",
+        "url": "https://traffic.megaphone.fm/GLSS6456733761.mp3?updated=1678295178",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who decided what instruments should be in an orchestra?",
+        "url": "https://traffic.megaphone.fm/GLSS4445271147.mp3?updated=1678295211",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What are Gummy Bears made out of?",
+        "url": "https://traffic.megaphone.fm/GLSS5338514906.mp3?updated=1678295238",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which video game character has appeared in the most games?",
+        "url": "https://traffic.megaphone.fm/GLSS5556998166.mp3?updated=1678295259",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Great White Sharks called Great Whites?",
+        "url": "https://traffic.megaphone.fm/GLSS4972930329.mp3?updated=1678295347",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you make chores or homework fun?",
+        "url": "https://traffic.megaphone.fm/GLSS2899404166.mp3?updated=1678295493",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which money is dirtier - coins or dollar bills?",
+        "url": "https://traffic.megaphone.fm/GLSS7256349347.mp3?updated=1678295584",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which famous board game lets YOU be a detective?",
+        "url": "https://traffic.megaphone.fm/GLSS8191723817.mp3?updated=1678295600",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do kids need Braces on their teeth?",
+        "url": "https://traffic.megaphone.fm/GLSS9472752600.mp3?updated=1678295665",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Humans once have... tails???",
+        "url": "https://traffic.megaphone.fm/GLSS4138417816.mp3?updated=1678295694",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Mission to Mars!",
+        "url": "https://traffic.megaphone.fm/GLSS6714715871.mp3?updated=1677864113",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who invented the Question Mark???",
+        "url": "https://traffic.megaphone.fm/GLSS5668517680.mp3?updated=1678295959",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What delicious sandwich is made with just 3 ingredients?",
+        "url": "https://traffic.megaphone.fm/GLSS1720527126.mp3?updated=1678295979",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are there 26 letters in the Alphabet?",
+        "url": "https://traffic.megaphone.fm/GLSS1084454863.mp3?updated=1678296070",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Special Episode: Space Camp!",
+        "url": "https://traffic.megaphone.fm/GLSS2547547774.mp3?updated=1677864114",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which road helped the Continental Army defeat the British in the Revolutionary War?",
+        "url": "https://traffic.megaphone.fm/GLSS5122422966.mp3?updated=1678297055",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many different kinds of Noodles are there?",
+        "url": "https://traffic.megaphone.fm/GLSS8351205808.mp3?updated=1678297093",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do humans have as much body hair as chimpanzees?",
+        "url": "https://traffic.megaphone.fm/GLSS3850543141.mp3?updated=1678720844",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do Dolphins and Whales sleep with one eye open?",
+        "url": "https://traffic.megaphone.fm/GLSS7385977124.mp3?updated=1678298524",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are sneakers called... 'sneakers'?",
+        "url": "https://traffic.megaphone.fm/GLSS3084599241.mp3?updated=1678298835",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What crazy ways do people celebrate New Year\u00e2\u0080\u0099s Eve around the world?",
+        "url": "https://traffic.megaphone.fm/GLSS2756079140.mp3?updated=1678298865",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did Monopoly become one of the most popular games of all time?",
+        "url": "https://traffic.megaphone.fm/GLSS2827371339.mp3?updated=1678298888",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What keeps the ocean from flying into space?",
+        "url": "https://traffic.megaphone.fm/GLSS4211207301.mp3?updated=1678298930",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do so many people love playing Minecraft?",
+        "url": "https://traffic.megaphone.fm/GLSS6949602073.mp3?updated=1678298977",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What tricks do Supermarkets use to get you to buy things?",
+        "url": "https://traffic.megaphone.fm/GLSS7431904877.mp3?updated=1678299066",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did Cavemen help invent NERF toys?",
+        "url": "https://traffic.megaphone.fm/GLSS1394087255.mp3?updated=1678299728",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What would happen if you never went to Sleep?",
+        "url": "https://traffic.megaphone.fm/GLSS8964296331.mp3?updated=1678299825",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Where did the Happy Birthday song come from?",
+        "url": "https://traffic.megaphone.fm/GLSS7378149965.mp3?updated=1678299873",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the smallest bone in the human body?",
+        "url": "https://traffic.megaphone.fm/GLSS1684150999.mp3?updated=1678299896",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens to your trash after you throw it out?",
+        "url": "https://traffic.megaphone.fm/GLSS1894728667.mp3?updated=1678299930",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does Uranus smell like... farts?",
+        "url": "https://traffic.megaphone.fm/GLSS3690376749.mp3?updated=1678300147",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes a Mirror a mirror?",
+        "url": "https://traffic.megaphone.fm/GLSS5280024973.mp3?updated=1678300164",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many different kinds of Bridges are there?",
+        "url": "https://traffic.megaphone.fm/GLSS8934307871.mp3?updated=1678300183",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were most of Disney's hit movies based on ancient Fairy Tales?",
+        "url": "https://traffic.megaphone.fm/GLSS6016020815.mp3?updated=1678300226",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could Chocolate one day <poof> disappear???",
+        "url": "https://traffic.megaphone.fm/GLSS3898729368.mp3?updated=1678300287",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Picasso try to steal the Mona Lisa?",
+        "url": "https://traffic.megaphone.fm/GLSS5869549361.mp3?updated=1678300410",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do Emojis count as a language?",
+        "url": "https://traffic.megaphone.fm/GLSS7408544414.mp3?updated=1678300438",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the strangest looking mammal on earth?",
+        "url": "https://traffic.megaphone.fm/GLSS4179757851.mp3?updated=1678300382",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were left-handed people once considered...evil?",
+        "url": "https://traffic.megaphone.fm/GLSS6833323836.mp3?updated=1678720895",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who thought putting raw fish on rice was a good idea?",
+        "url": "https://traffic.megaphone.fm/GLSS5901189535.mp3?updated=1678300452",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does Music affect your Brain?",
+        "url": "https://traffic.megaphone.fm/GLSS5948537312.mp3?updated=1678300519",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes Popcorn pop???",
+        "url": "https://traffic.megaphone.fm/GLSS1710088175.mp3?updated=1678376786",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How much warning do we have before an earthquake strikes?",
+        "url": "https://traffic.megaphone.fm/GLSS6225091090.mp3?updated=1678376825",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do people laugh at farts?",
+        "url": "https://traffic.megaphone.fm/GLSS1919379993.mp3?updated=1678376846",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do mosquito bites itch so much?",
+        "url": "https://traffic.megaphone.fm/GLSS2301514243.mp3?updated=1678376859",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is Glass made of?",
+        "url": "https://traffic.megaphone.fm/GLSS6538807996.mp3?updated=1678376885",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are Boogers actually one of your superpowers?",
+        "url": "https://traffic.megaphone.fm/GLSS8246467798.mp3?updated=1678376904",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is Halloween associated with scary things?",
+        "url": "https://traffic.megaphone.fm/GLSS5774331383.mp3?updated=1678376989",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were the first TACOS made from animal hearts???",
+        "url": "https://traffic.megaphone.fm/GLSS9778674806.mp3?updated=1678377004",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the oldest living thing on planet Earth?",
+        "url": "https://traffic.megaphone.fm/GLSS4193414976.mp3?updated=1678377031",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you get over your fear of Roller Coasters?",
+        "url": "https://traffic.megaphone.fm/GLSS3625135131.mp3?updated=1678377084",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What does a scab on your knee & Captain America have in common?",
+        "url": "https://traffic.megaphone.fm/GLSS7406873704.mp3?updated=1678377107",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can you imagine a time before humans cooked their food?",
+        "url": "https://traffic.megaphone.fm/GLSS7296476769.mp3?updated=1678377129",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why should you never say LEGOS when playing with LEGO bricks?",
+        "url": "https://traffic.megaphone.fm/GLSS2014446810.mp3?updated=1678377163",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How destructive can a Volcano be?",
+        "url": "https://traffic.megaphone.fm/GLSS2796361312.mp3?updated=1678377185",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why does it hurt so much when you bite your tongue?",
+        "url": "https://traffic.megaphone.fm/GLSS4377447714.mp3?updated=1678377220",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could a giant storm on Jupiter really destroy the Earth?",
+        "url": "https://traffic.megaphone.fm/GLSS9324164758.mp3?updated=1678377285",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are you drinking the same water as the Dinosaurs?",
+        "url": "https://traffic.megaphone.fm/GLSS3564496149.mp3?updated=1678377309",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can everyday objects suddenly EXPLODE???",
+        "url": "https://traffic.megaphone.fm/GLSS5387521826.mp3?updated=1678377329",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is seeing a comet really a sign of bad things to come???",
+        "url": "https://traffic.megaphone.fm/GLSS6849729325.mp3?updated=1678377354",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the sun made of?",
+        "url": "https://traffic.megaphone.fm/GLSS5523171879.mp3?updated=1678377379",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What does the way you greet someone ('Sup?) say about you?",
+        "url": "https://traffic.megaphone.fm/GLSS5082874705.mp3?updated=1678377404",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can you make complex drum beats... with your mouth?",
+        "url": "https://traffic.megaphone.fm/GLSS9099359225.mp3?updated=1678377599",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you need to brush your baby teeth that are going to fall out?",
+        "url": "https://traffic.megaphone.fm/GLSS3453886992.mp3?updated=1678377620",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens if you eat moldy food?",
+        "url": "https://traffic.megaphone.fm/GLSS9530651870.mp3?updated=1678377645",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What do Mac & Cheese and the Declaration of Independence have in common???",
+        "url": "https://traffic.megaphone.fm/GLSS6544781182.mp3?updated=1678377668",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Eeeek, are spiders dangerous to humans???",
+        "url": "https://traffic.megaphone.fm/GLSS4551242279.mp3?updated=1678379233",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you defeat the Worry Monster living inside of you?",
+        "url": "https://traffic.megaphone.fm/GLSS3520334711.mp3?updated=1678379250",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are rainbows real, or just a crazy illusion?",
+        "url": "https://traffic.megaphone.fm/GLSS9534340419.mp3?updated=1678379330",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do some animals make good pets?",
+        "url": "https://traffic.megaphone.fm/GLSS4968323892.mp3?updated=1678379353",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you make cool Movie Sound Effects using everyday items at home?",
+        "url": "https://traffic.megaphone.fm/GLSS3233316976.mp3?updated=1678379459",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is it possible to build a Transformers car/robot... in real life?",
+        "url": "https://traffic.megaphone.fm/GLSS4507195902.mp3?updated=1678379501",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the most popular cookie in the world?",
+        "url": "https://traffic.megaphone.fm/GLSS7445386398.mp3?updated=1678379561",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the complex system inside you controlling your every move?",
+        "url": "https://traffic.megaphone.fm/GLSS7449342481.mp3?updated=1678379564",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did you know the Calendar we all use is full of... mistakes?",
+        "url": "https://traffic.megaphone.fm/GLSS1868137325.mp3?updated=1678379694",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How is an Opera a lot like a Marvel Movie, pop music, and Star Wars?",
+        "url": "https://traffic.megaphone.fm/GLSS6986598069.mp3?updated=1678379698",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Does school start too early?",
+        "url": "https://traffic.megaphone.fm/GLSS1319419693.mp3?updated=1678379686",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What would happen to Earth if there were no... clouds?",
+        "url": "https://traffic.megaphone.fm/GLSS2745011207.mp3?updated=1678379689",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did America's greatest inventor get kicked out of school?",
+        "url": "https://traffic.megaphone.fm/GLSS8280828434.mp3?updated=1678379717",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who would win in a fight - an Alligator or a Crocodile?",
+        "url": "https://traffic.megaphone.fm/GLSS1710372032.mp3?updated=1678379768",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can a giant, heavy airplane fly???",
+        "url": "https://traffic.megaphone.fm/GLSS1586012613.mp3?updated=1678379811",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How much do most people sweat in a day?",
+        "url": "https://traffic.megaphone.fm/GLSS3557934493.mp3?updated=1678379824",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's the coolest way to get around on 4-wheels?",
+        "url": "https://traffic.megaphone.fm/GLSS3110999104.mp3?updated=1682624921",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were early guitar strings really made out of... cow guts?!?",
+        "url": "https://traffic.megaphone.fm/GLSS3513224883.mp3?updated=1678379862",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do some people eat super gross foods?",
+        "url": "https://traffic.megaphone.fm/GLSS1539482260.mp3?updated=1678379901",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many Muscles do you have in your face?",
+        "url": "https://traffic.megaphone.fm/GLSS2060877766.mp3?updated=1678379910",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the most dangerous type of storm on the planet?",
+        "url": "https://traffic.megaphone.fm/GLSS8014406107.mp3?updated=1678380172",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the most popular lunch food of all time???",
+        "url": "https://traffic.megaphone.fm/GLSS8103380766.mp3?updated=1678380188",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did you know there\u00e2\u0080\u0099s a battle raging INSIDE YOU every day?",
+        "url": "https://traffic.megaphone.fm/GLSS5978566333.mp3?updated=1678380213",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why does soda pop make you burp?",
+        "url": "https://traffic.megaphone.fm/GLSS9321013009.mp3?updated=1678386130",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How come you don't have to be afraid of Polar Bears in Antarctica?",
+        "url": "https://traffic.megaphone.fm/GLSS1828729528.mp3?updated=1678386163",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do you turn Pizza into Poop?",
+        "url": "https://traffic.megaphone.fm/GLSS9923177182.mp3?updated=1678386204",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Nikola Tesla invent a Death Beam to try and end all wars?",
+        "url": "https://traffic.megaphone.fm/GLSS6141526391.mp3?updated=1678386223",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Whales once live on land as furry creatures the size of cats???",
+        "url": "https://traffic.megaphone.fm/GLSS3897059430.mp3?updated=1678386253",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What does my Pee... say about Me?",
+        "url": "https://traffic.megaphone.fm/GLSS6148020965.mp3?updated=1678721035",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why did the first basketball games always end in big fights?",
+        "url": "https://traffic.megaphone.fm/GLSS7725837231.mp3?updated=1678386321",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the secret cure for when you're feeling low-energy?",
+        "url": "https://traffic.megaphone.fm/GLSS5838536359.mp3?updated=1678386344",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is your Heart made of Blood?",
+        "url": "https://traffic.megaphone.fm/GLSS9988071153.mp3?updated=1678386368",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do Fireworks explode into Smiley Faces?",
+        "url": "https://traffic.megaphone.fm/GLSS1862278624.mp3?updated=1678386653",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did big bad wolves turn into friendly cuddly dogs?",
+        "url": "https://traffic.megaphone.fm/GLSS6214522206.mp3?updated=1678386682",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do babies have more bones than kids or adults?",
+        "url": "https://traffic.megaphone.fm/GLSS4772866365.mp3?updated=1678386721",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is there really seaweed in ice cream???",
+        "url": "https://traffic.megaphone.fm/GLSS9264667501.mp3?updated=1678386735",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What do the Lion King, In the Heights and West Side Story have in common?",
+        "url": "https://traffic.megaphone.fm/GLSS4933614365.mp3?updated=1678719673",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which of your 5 Basic Senses is most important?",
+        "url": "https://traffic.megaphone.fm/GLSS3423410670.mp3?updated=1678719639",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why does Broccoli make you fart?",
+        "url": "https://traffic.megaphone.fm/GLSS4553132304.mp3?updated=1678719574",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do you make a jelly bean taste like vomit?",
+        "url": "https://traffic.megaphone.fm/GLSS8254081500.mp3?updated=1678719520",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is the most popular board game of all time?",
+        "url": "https://traffic.megaphone.fm/GLSS2339993859.mp3?updated=1678719296",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is Pizza so delicious?",
+        "url": "https://traffic.megaphone.fm/GLSS9430771552.mp3?updated=1678719253",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is American Cheese actually cheese?",
+        "url": "https://traffic.megaphone.fm/GLSS5012762209.mp3?updated=1678719207",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could a forest really catch fire all by itself???",
+        "url": "https://traffic.megaphone.fm/GLSS4548333457.mp3?updated=1678718603",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why did Pluto get kicked out of the Planets Club?",
+        "url": "https://traffic.megaphone.fm/GLSS3408802858.mp3?updated=1678718517",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "If Sugar is so bad for us - why do we eat so much of it???",
+        "url": "https://traffic.megaphone.fm/GLSS9275691995.mp3?updated=1678718417",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do Octopuses escape from their tanks at the aquarium?",
+        "url": "https://traffic.megaphone.fm/GLSS8131178033.mp3?updated=1678718325",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What do Unicorns, Bald Eagles and Shamrocks have in common?",
+        "url": "https://traffic.megaphone.fm/GLSS4593243102.mp3?updated=1678470611",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are you able to remember your scary nightmares?",
+        "url": "https://traffic.megaphone.fm/GLSS8129165863.mp3?updated=1678470539",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do vaccines make you safe from diseases?",
+        "url": "https://traffic.megaphone.fm/GLSS3670186601.mp3?updated=1678470438",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can a vampire bat turn you into a vampire???",
+        "url": "https://traffic.megaphone.fm/GLSS4569421623.mp3?updated=1678469662",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did Amelia Earhart become the greatest unsolved mystery of all time?",
+        "url": "https://traffic.megaphone.fm/GLSS7432878084.mp3?updated=1678469604",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How could biting your nails make you sick?",
+        "url": "https://traffic.megaphone.fm/GLSS4401555854.mp3?updated=1678469538",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do flies barf on your food???",
+        "url": "https://traffic.megaphone.fm/GLSS9616629064.mp3?updated=1678469489",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Was early gum really made from charcoal and chalk?",
+        "url": "https://traffic.megaphone.fm/GLSS3266498622.mp3?updated=1678469547",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can you cuddle with a hibernating bear?",
+        "url": "https://traffic.megaphone.fm/GLSS6805686086.mp3?updated=1678469636",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How soon until cars can fly?",
+        "url": "https://traffic.megaphone.fm/GLSS8080172427.mp3?updated=1678469353",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did the Barbie Doll help create the Action Figure?",
+        "url": "https://traffic.megaphone.fm/GLSS9899564011.mp3?updated=1678469308",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why does everyone go nuts for donuts?",
+        "url": "https://traffic.megaphone.fm/GLSS8513154356.mp3?updated=1678469254",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are today's superheroes based on The Greek Gods?",
+        "url": "https://traffic.megaphone.fm/GLSS6905140009.mp3?updated=1678469214",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens to your food after you eat it?",
+        "url": "https://traffic.megaphone.fm/GLSS8279163890.mp3?updated=1678469113",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Christopher Columbus ever see a mermaid?",
+        "url": "https://traffic.megaphone.fm/GLSS2590019253.mp3?updated=1678469129",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Should you wear a bicycle helmet during a tornado?",
+        "url": "https://traffic.megaphone.fm/GLSS4202074494.mp3?updated=1678469040",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Will another asteroid hit Earth soon?",
+        "url": "https://traffic.megaphone.fm/GLSS6789696123.mp3?updated=1678468973",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are worms like superheroes saving the planet?",
+        "url": "https://traffic.megaphone.fm/GLSS6515510078.mp3?updated=1678468908",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Could a plant eat a person?",
+        "url": "https://traffic.megaphone.fm/GLSS9822714277.mp3?updated=1678468868",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What did people write on before paper?",
+        "url": "https://traffic.megaphone.fm/GLSS9928383388.mp3?updated=1678470815",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What does your dog dream about?",
+        "url": "https://traffic.megaphone.fm/GLSS2667375241.mp3?updated=1678470749",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did some dinosaurs survive extinction?",
+        "url": "https://traffic.megaphone.fm/GLSS3245388356.mp3?updated=1678468869",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are there other planets like Earth in the Universe?",
+        "url": "https://traffic.megaphone.fm/GLSS7487057904.mp3?updated=1678468837",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How come you never forget how to ride a bike?",
+        "url": "https://traffic.megaphone.fm/GLSS3238107446.mp3?updated=1678468861",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did real life pirates actually say Arr?",
+        "url": "https://traffic.megaphone.fm/GLSS4181406962.mp3?updated=1678468643",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is honey really made from bee vomit?",
+        "url": "https://traffic.megaphone.fm/GLSS5534725584.mp3?updated=1678468562",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do skyscrapers really sway back and forth?",
+        "url": "https://traffic.megaphone.fm/GLSS8726394138.mp3?updated=1678468513",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do noodles come in so many shapes?",
+        "url": "https://traffic.megaphone.fm/GLSS6577576201.mp3?updated=1678468461",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What makes clowns both funny & scary?",
+        "url": "https://traffic.megaphone.fm/GLSS1165591044.mp3?updated=1678468399",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Which eating utensil was once considered... evil?",
+        "url": "https://traffic.megaphone.fm/GLSS8838051974.mp3?updated=1678468350",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are head lice really just tiny vampires?",
+        "url": "https://traffic.megaphone.fm/GLSS1356933184.mp3?updated=1678468321",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who is the greatest board game maker of all-time?",
+        "url": "https://traffic.megaphone.fm/GLSS1802718136.mp3?updated=1678468321",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do we all love using Emojis?",
+        "url": "https://traffic.megaphone.fm/GLSS1211684229.mp3?updated=1678468186",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can animals change sex?",
+        "url": "https://traffic.megaphone.fm/GLSS1682743076.mp3?updated=1678468179",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What would happen if you went into a Black Hole?",
+        "url": "https://traffic.megaphone.fm/GLSS7048641697.mp3?updated=1678468058",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How many creatures live in the rainforest?",
+        "url": "https://traffic.megaphone.fm/GLSS5136115627.mp3?updated=1678467920",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are video games good for your brain?",
+        "url": "https://traffic.megaphone.fm/GLSS8966828979.mp3?updated=1678467792",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you add milk to breakfast cereal?",
+        "url": "https://traffic.megaphone.fm/GLSS1039588377.mp3?updated=1678467711",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What happens when two galaxies collide?",
+        "url": "https://traffic.megaphone.fm/GLSS2133828837.mp3?updated=1678400381",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are allergies just a big misunderstanding?",
+        "url": "https://traffic.megaphone.fm/GLSS8365471601.mp3?updated=1678400237",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is your pet kitty cat really a tiny tiger?",
+        "url": "https://traffic.megaphone.fm/GLSS7311219533.mp3?updated=1678400144",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Where do cool new words come from?",
+        "url": "https://traffic.megaphone.fm/GLSS3761570208.mp3?updated=1678400055",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What does your Poo say about You?",
+        "url": "https://traffic.megaphone.fm/GLSS9391893619.mp3?updated=1678399898",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do we need braces to straighten our teeth?",
+        "url": "https://traffic.megaphone.fm/GLSS1034049517.mp3?updated=1678399813",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is an hour 60 minutes?",
+        "url": "https://traffic.megaphone.fm/GLSS1770850900.mp3?updated=1678399648",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Are cookies really just little cakes?",
+        "url": "https://traffic.megaphone.fm/GLSS7907291322.mp3?updated=1678399407",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who has better eyes - humans or animals?",
+        "url": "https://traffic.megaphone.fm/GLSS4731892668.mp3?updated=1678399282",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Were early balloons really made from animal guts?",
+        "url": "https://traffic.megaphone.fm/GLSS7744662660.mp3?updated=1678399121",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are Gummy Bears, bears?",
+        "url": "https://traffic.megaphone.fm/GLSS7300731181.mp3?updated=1678399057",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is Mars more popular than Venus?",
+        "url": "https://traffic.megaphone.fm/GLSS6958751139.mp3?updated=1678399011",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Did Leonardo da Vinci invent the original Batmobile?",
+        "url": "https://traffic.megaphone.fm/GLSS5637261539.mp3?updated=1678398968",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Can you land a plane on the highway?",
+        "url": "https://traffic.megaphone.fm/GLSS1349072021.mp3?updated=1678398932",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are trees crucial to human's survival?",
+        "url": "https://traffic.megaphone.fm/GLSS3654756985.mp3?updated=1678398895",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What's Cooking?",
+        "url": "https://traffic.megaphone.fm/GLSS5138174925.mp3?updated=1678398693",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is your Tongue your most important body part?",
+        "url": "https://traffic.megaphone.fm/GLSS1951777534.mp3?updated=1678398633",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did waffles help create sneakers?",
+        "url": "https://traffic.megaphone.fm/GLSS7935985185.mp3?updated=1678398565",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Is Bigfoot Real?",
+        "url": "https://traffic.megaphone.fm/GLSS1220686555.mp3?updated=1678392647",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How was the moon formed?",
+        "url": "https://traffic.megaphone.fm/GLSS3817703840.mp3?updated=1678390283",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does your nose work?",
+        "url": "https://traffic.megaphone.fm/GLSS9077839717.mp3?updated=1678390225",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How was radiation discovered?",
+        "url": "https://traffic.megaphone.fm/GLSS3111769625.mp3?updated=1678390166",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is mold an ingredient in gummy bears?",
+        "url": "https://traffic.megaphone.fm/GLSS7613007943.mp3?updated=1678390089",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you motivate yourself?",
+        "url": "https://traffic.megaphone.fm/GLSS3226626527.mp3?updated=1678390023",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What are boogers and what are they for?",
+        "url": "https://traffic.megaphone.fm/GLSS3372830201.mp3?updated=1678389970",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What causes things to explode?",
+        "url": "https://traffic.megaphone.fm/GLSS7968381717.mp3?updated=1678389910",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Who really invented peanut butter & jelly?",
+        "url": "https://traffic.megaphone.fm/GLSS9907046997.mp3?updated=1678389947",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a microwave oven work?",
+        "url": "https://traffic.megaphone.fm/GLSS9251965010.mp3?updated=1678389750",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Wait, you shouldn't be afraid of spiders?",
+        "url": "https://traffic.megaphone.fm/GLSS7052415193.mp3?updated=1678389661",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What causes a volcano?",
+        "url": "https://traffic.megaphone.fm/GLSS8219575751.mp3?updated=1678389584",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do we say hello?",
+        "url": "https://traffic.megaphone.fm/GLSS5459621347.mp3?updated=1678389466",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are fairy tales so powerful?",
+        "url": "https://traffic.megaphone.fm/GLSS1396672510.mp3?updated=1678389417",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What if the sun went out?",
+        "url": "https://traffic.megaphone.fm/GLSS9307018880.mp3?updated=1678389361",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How old is the water you're drinking?",
+        "url": "https://traffic.megaphone.fm/GLSS2438355039.mp3?updated=1678389303",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does a guitar work?",
+        "url": "https://traffic.megaphone.fm/GLSS9217464503.mp3?updated=1678389233",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do ears work?",
+        "url": "https://traffic.megaphone.fm/GLSS8878064165.mp3?updated=1678389167",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Do opera singers have to be large?",
+        "url": "https://traffic.megaphone.fm/GLSS7019704792.mp3?updated=1678389059",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does your immune system work?",
+        "url": "https://traffic.megaphone.fm/GLSS3647153392.mp3?updated=1678388967",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did mirrors come from volcanoes?",
+        "url": "https://traffic.megaphone.fm/GLSS4873041134.mp3?updated=1678388910",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do some people pee when they laugh?",
+        "url": "https://traffic.megaphone.fm/GLSS4423847756.mp3?updated=1678388849",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why doesn't ice cream freeze solid like ice?",
+        "url": "https://traffic.megaphone.fm/GLSS7207501259.mp3?updated=1678388755",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What good is a sound wave if you can't surf on it?",
+        "url": "https://traffic.megaphone.fm/GLSS1101243572.mp3?updated=1678388694",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Where is the end of the rainbow?",
+        "url": "https://traffic.megaphone.fm/GLSS2790437127.mp3?updated=1678388550",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are dogs so cute?",
+        "url": "https://traffic.megaphone.fm/GLSS2740916852.mp3?updated=1678388460",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How does music give you feelings?",
+        "url": "https://traffic.megaphone.fm/GLSS1524548142.mp3?updated=1678388313",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you have to sleep?",
+        "url": "https://traffic.megaphone.fm/GLSS4260549931.mp3?updated=1678388242",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How is the platypus nature's mash-up?",
+        "url": "https://traffic.megaphone.fm/GLSS3777891223.mp3?updated=1678388036",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why are basketballs orange?",
+        "url": "https://traffic.megaphone.fm/GLSS2979158065.mp3?updated=1678386239",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do you escape from inside a whale?",
+        "url": "https://traffic.megaphone.fm/GLSS7693927124.mp3?updated=1678386159",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did a drought make skateboards popular?",
+        "url": "https://traffic.megaphone.fm/GLSS2430048514.mp3?updated=1678386090",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How can you be less anxious?",
+        "url": "https://traffic.megaphone.fm/GLSS5063225369.mp3?updated=1678300257",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why do you have to brush your teeth?",
+        "url": "https://traffic.megaphone.fm/GLSS3631502269.mp3?updated=1678299284",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why does broccoli smell so bad?",
+        "url": "https://traffic.megaphone.fm/GLSS9443358266.mp3?updated=1678299087",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How did Thomas Edison invent more than 1,000 things?",
+        "url": "https://traffic.megaphone.fm/GLSS7673471932.mp3?updated=1678298829",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "How do movie sound effects work?",
+        "url": "https://traffic.megaphone.fm/GLSS3952694136.mp3?updated=1678298673",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "Why is pizza so delicious?",
+        "url": "https://traffic.megaphone.fm/GLSS9546891630.mp3?updated=1678298553",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "If gravity stopped working, what would happen?",
+        "url": "https://traffic.megaphone.fm/GLSS6501796174.mp3?updated=1678298262",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+        "content_type": "audio/mp3",
+        "title": "What is Who Smarted? (Trailer)",
+        "url": "https://traffic.megaphone.fm/GLSS3172454240.mp3?updated=1678492457",
+        "thumb": "https://megaphone.imgix.net/podcasts/bf0f50ba-b9e6-11ed-99c4-b7e904fd04b6/image/Logo_Recolor_2021_1102_RED.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    }
+]

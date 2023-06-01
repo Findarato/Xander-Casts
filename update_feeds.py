@@ -1,8 +1,13 @@
 import os,random
+
 from datetime import datetime
+
 import requests, json
+
 import feedparser
+
 import logging
+
 
 class Update_feeds:
     def __init__(self,feed):
@@ -15,7 +20,7 @@ class Update_feeds:
         feed_data = []
 
         try:
-            r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0'}, timeout=60)
+            r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/188.0'}, timeout=60)
             feed_result = feedparser.parse(r.text)
             for item in feed_result.entries:
                 url = ""
@@ -31,7 +36,7 @@ class Update_feeds:
                 })
             return feed_data
         except:
-            loggin.error(f'failed to get: {url}')
+            logging.error(f'failed to get: {url}')
 
     @staticmethod
     def writeFeeds(feed_data):

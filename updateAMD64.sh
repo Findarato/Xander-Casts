@@ -1,4 +1,3 @@
-echo '[]' > podcasts.json
 
 docker build --tag findarato/xandercasts:amd64 .
 

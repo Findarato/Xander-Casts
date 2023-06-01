@@ -1,9 +1,10 @@
 import json
 import os
 import random
-import time
+# import time
 import opml
 import pychromecast
+
 import logging
 
 from datetime import datetime
@@ -12,8 +13,11 @@ from player import Player
 
 from update_feeds import Update_feeds
 
+CAST_NAME = os.getenv('CAST_NAME','Xander Room')
+TOTAL_PODCASTS_TO_PLAY = int(os.getenv('total_podcast_to_play',5))
+PODCASTS = []
 
-# logging.basicConfig(filename='xandercast.log', encoding='utf-8',level=logging.INFO)
+# logging.basicConfig(level=logging.DEBUG)
 logging.basicConfig(level=logging.INFO)
 
 def getUpdate():
@@ -33,26 +37,17 @@ def getUpdate():
     # print("Writting JSON data")
     Update_feeds.writeFeeds(json_data)
 
+timestamp = datetime.timestamp( datetime.now() )
 
-now = datetime.now()
-timestamp = datetime.timestamp(now)
 st = os.stat('podcasts.json')
+
 mtime = st.st_mtime
 
 timeDiff = (timestamp - mtime)
 
-if os.getenv('total_podcast_to_play') is None:
-    total_podcast_to_play = 20
-else:
-    total_podcast_to_play = int(os.getenv('total_podcast_to_play'))
-
-chromecast_name = "Xander Room"
-
-if os.getenv('chromecast_name') is not None:
-    chromecast_name = ios.getenv('chromecast_name')
-
 if timeDiff >= 604800 or True:
     getUpdate()
+    logging.info(f'Updating podcast list')
 
 with open('podcasts.json') as json_file:
     podcast_data = json.load(json_file)
@@ -62,27 +57,35 @@ if len(podcast_data) == 0:
     with open('podcasts.json') as json_file:
         podcast_data = json.load(json_file)
 
-podcasts_to_play = []
-
-logging.info(f'Going to play: {total_podcast_to_play}')
-logging.info(f'Chromecast: {chromecast_name}')
+logging.info(f'Going to play: {TOTAL_PODCASTS_TO_PLAY}')
+logging.info(f'Chromecast: {CAST_NAME}')
 
 logging.info("Selecting Podcasts")
 
 count=0
 
-while len(podcasts_to_play) < total_podcast_to_play:
+while len(PODCASTS) < TOTAL_PODCASTS_TO_PLAY:
     podCast_selected = random.choice(podcast_data)
-    podcasts_to_play.append(podCast_selected)
+    PODCASTS.append(podCast_selected)
     podcast_title = podCast_selected['title']
     logging.info(f'{count} : {podcast_title}')
     count=count+1
 
-ChromeCasts,browser = pychromecast.get_listed_chromecasts(friendly_names=[chromecast_name])
+# ChromeCasts = pychromecast.get_chromecasts(timeout=5)
+chrome_cast_target, browser = pychromecast.get_listed_chromecasts(friendly_names=[CAST_NAME])
 
 
-ChromeCast = next(ChromeCast for ChromeCast in ChromeCasts )
-ChromeCast.wait()
+if len(chrome_cast_target) == 0:
+    logging.critical(f'No Devices Found')
+    exit()
+else:
+    logging.info(f'Looking for: {CAST_NAME} ')
+    logging.info(f'Found it ')
 
-p = Player(ChromeCast)
-p.play(podcasts_to_play)
+
+
+chromecast_player = Player(chrome_cast_target[0])
+
+chromecast_player.play(PODCASTS)
+
+browser.stop_discovery()

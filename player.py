@@ -1,31 +1,38 @@
 #!/usr/bin/env python
 
-import pychromecast
 import time
-import json
 import logging
-
+import pychromecast
+import json
 
 class Player:
-    def __init__(self, cc):
-        self.cc = cc
-        self.cc.wait()
-        self.cc.media_controller.register_status_listener(self)
+    def __init__(self, CHROMECAST):
+        self.ChromeCast = CHROMECAST
 
-    def play(self, pls):
+    def play(self, play_list):
+
+        logging.debug(f'chromecast: {self.ChromeCast}')
+
+        self.ChromeCast.wait()
+
+        self.media_controller = self.ChromeCast.media_controller.register_status_listener(self)
 
         def media_producer():
-            for i in pls:
-                nowplaying = i
-                logging.info(f'Starting to play {nowplaying}')
-                self.cc.media_controller.play_media(**i)
-                self.cc.media_controller.block_until_active()
+            for now_playing in play_list:
+                # nowplaying = i
+                # now_playing_json = json.loads(now_playing)
+                logging.info(f'Starting to play {now_playing}')
+                # logging.info(f'Starting to play {json.dumps(now_playing_json, indent=2)}')
+                self.ChromeCast.media_controller.play_media(**now_playing)
+
+                self.ChromeCast.media_controller.block_until_active()
+
                 yield
 
         self._media = media_producer()
 
         self.new_media_status(None)
-        self.cc.join()
+        self.ChromeCast.join()
 
     def new_media_status(self, status):
         if status is None or (status.player_state == 'IDLE' and status.idle_reason == 'FINISHED'):
@@ -33,5 +40,5 @@ class Player:
                 next(self._media)
                 time.sleep(3)
             except StopIteration:
-                self.cc.quit_app()
-                self.cc.__del__()
+                self.ChromeCast.quit_app()
+                self.ChromeCast.__del__()

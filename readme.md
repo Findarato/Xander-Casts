@@ -1,6 +1,6 @@
 # Thanks for looking at my tool
 
-![Release Build](https://github.com/findarato/Xander-Casts/actions/workflows/deploay-image/badge.svg)
+![Docker Image Status](https://github.com/findarato/xander-casts/actions/workflows/deploy-image.yml/badge.svg?branch=release)
 
 All docker builds and images are hosted by Moved over to github, and the builds are automated on a merge into the release branch.
 

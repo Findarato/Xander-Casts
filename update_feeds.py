@@ -1,7 +1,5 @@
 import os,random
 
-from datetime import datetime
-
 import requests, json
 
 import feedparser
@@ -12,8 +10,6 @@ import logging
 class Update_feeds:
     def __init__(self,feed):
         self.feed=feed
-        now = datetime.now()
-        self.timestamp = datetime.timestamp(now)
 
     @staticmethod
     def getFeeds(url):

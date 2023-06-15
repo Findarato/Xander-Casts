@@ -39,23 +39,9 @@ class Podcast_player():
             for podcast_feed in outline:
                 self.json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
 
-        Update_feeds.writeFeeds(self.json_data)
+        # Update_feeds.writeFeeds(self.json_data)
 
     def play(self):
-
-        # print("Writting JSON data")
-
-        timestamp = datetime.timestamp( datetime.now() )
-
-        st = os.stat('podcasts.json')
-
-        with open('podcasts.json') as json_file:
-            podcast_data = json.load(json_file)
-
-        if len(podcast_data) == 0:
-            self.getUpdate()
-            with open('podcasts.json') as json_file:
-                podcast_data = json.load(json_file)
 
         logging.info(f'Going to play: {self.total_podcasts_to_play}')
         logging.info(f'Chromecast: {self.chrome_cast}')
@@ -64,12 +50,12 @@ class Podcast_player():
 
         count=0
 
-
+        self.getUpdate()
         #
         # Build out total list of podcasts to play
         #
         while len(self.podcasts) < self.total_podcasts_to_play:
-            podCast_selected = random.choice(podcast_data)
+            podCast_selected = random.choice(self.json_data)
             self.podcasts.append(podCast_selected)
             podcast_title = podCast_selected['title']
             logging.info(f'{count}: {podcast_title}')

@@ -1,90 +1,32 @@
 import json
 import os
-import random
-# import time
-import opml
-import pychromecast
 
 import logging
 
 from datetime import datetime
-
 from player import Player
-
-from update_feeds import Update_feeds
 
 CAST_NAME = os.getenv('CAST_NAME','Xander Room')
 TOTAL_PODCASTS_TO_PLAY = int(os.getenv('total_podcast_to_play',5))
-PODCASTS = []
+PLAYER_TYPE = os.getenv('Player',"Podcast")
+BOOK = 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4'
 
-# logging.basicConfig(level=logging.DEBUG)
-logging.basicConfig(level=logging.INFO)
+# fmt = "%(asctime)s %(levelname)s (%(threadName)s) [%(name)s] %(message)s"
+fmt = "%(asctime)s %(levelname)s (%(threadName)s) %(message)s"
+datefmt = "%Y-%m-%d %H:%M:%S"
+logging.basicConfig(format=fmt, datefmt=datefmt, level=logging.INFO)
 
-def getUpdate():
-    json_data = []
+# logging.info(f'BOOK_PLAYER is {PLAYER_TYPE}')
+logging.info(f'Total Podcasts to play is {TOTAL_PODCASTS_TO_PLAY}')
 
-    outline = opml.parse("podcasts.xml")
+if PLAYER_TYPE == "Book":
+    logging.info(f'Starting Book Player')
+    from book_player import Book_player
 
-    logging.info("Getting Feeds")
-    # try:
-    if outline[0].text == "feeds":  # This is a pocket casts feed
-        for podcast_feed in outline[0]:
-            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
-    else:
-        for podcast_feed in outline:
-            json_data.extend(Update_feeds.getFeeds(podcast_feed.xmlUrl))
-
-    # print("Writting JSON data")
-    Update_feeds.writeFeeds(json_data)
-
-timestamp = datetime.timestamp( datetime.now() )
-
-st = os.stat('podcasts.json')
-
-mtime = st.st_mtime
-
-timeDiff = (timestamp - mtime)
-
-if timeDiff >= 604800 or True:
-    getUpdate()
-    logging.info(f'Updating podcast list')
-
-with open('podcasts.json') as json_file:
-    podcast_data = json.load(json_file)
-
-if len(podcast_data) == 0:
-    getUpdate()
-    with open('podcasts.json') as json_file:
-        podcast_data = json.load(json_file)
-
-logging.info(f'Going to play: {TOTAL_PODCASTS_TO_PLAY}')
-logging.info(f'Chromecast: {CAST_NAME}')
-
-logging.info("Selecting Podcasts")
-
-count=0
-
-while len(PODCASTS) < TOTAL_PODCASTS_TO_PLAY:
-    podCast_selected = random.choice(podcast_data)
-    PODCASTS.append(podCast_selected)
-    podcast_title = podCast_selected['title']
-    logging.info(f'{count} : {podcast_title}')
-    count=count+1
-
-chrome_cast_target, browser = pychromecast.get_listed_chromecasts(friendly_names=[CAST_NAME])
-
-
-if len(chrome_cast_target) == 0:
-    logging.critical(f'No Devices Found')
-    exit()
+    player = Book_player(CAST_NAME,BOOK)
 else:
-    logging.info(f'Looking for: {CAST_NAME} ')
-    logging.info(f'Found it ')
+    logging.info(f'Starting Podcast Player')
+    from podcast_player import Podcast_player
 
-
-
-chromecast_player = Player(chrome_cast_target[0])
-
-chromecast_player.play(PODCASTS)
-
-browser.stop_discovery()
+    player = Podcast_player(CAST_NAME,TOTAL_PODCASTS_TO_PLAY)
+    player.play()
